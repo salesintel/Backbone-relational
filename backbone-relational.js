@@ -2073,4 +2073,6 @@
 
 		return child;
 	};
+
+	return Backbone;
 }));
